@@ -13,3 +13,6 @@ Inspired from [*Bloxlib*](https://github.com/ElCapor/bloxlib) and [*Hyper Inject
 Download compiled version or source [**Here**](https://github.com/Riz-ve/Prestige-Roblox/releases/tag/Prestige)
 
 (Compiled Version is tested to give better *performance*)
+
+# To github
+This repository showcases the byfron anti-cheat system and demonstrates how it can be bypassed using pymem. Please remember that I cannot be held responsible for any misuse of this information.
