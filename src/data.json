@@ -6,7 +6,7 @@
                   "skip-on-valid-pattern": true
             },
             "advanced": {
-                  "list-items": false,
+                  "list-items": true,
                   "multi-inject": false
             }
       },
