@@ -1,6 +1,6 @@
 # PRESTIGE-ROBLOX
 A Byfron bypass using memory modifications with *Pymem*.
-This uses the same method as Netflix CE. Works with any teleporter game But i use
+This uses the same method as Netflix CE. Works with any teleporter game But I use
 [**This**](https://www.roblox.com/games/16138148062/) game for the teleport
 
 Preview:
