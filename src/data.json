@@ -1,1 +1,17 @@
-
+{
+      "settings": {
+            "basic": {
+                  "play-sound": true,
+                  "banner": "      :::::::::  :::::::::  :::::::::: :::::::: ::::::::::: ::::::::::: ::::::::  ::::::::::\n     :+:    :+: :+:    :+: :+:       :+:    :+:    :+:         :+:    :+:    :+: :+:\n    +:+    +:+ +:+    +:+ +:+       +:+           +:+         +:+    +:+        +:+\n   +#++:++#+  +#++:++#:  +#++:++#  +#++:++#++    +#+         +#+    :#:        +#++:++#\n  +#+        +#+    +#+ +#+              +#+    +#+         +#+    +#+   +#+# +#+\n #+#        #+#    #+# #+#       #+#    #+#    #+#         #+#    #+#    #+# #+#\n###        ###    ### ########## ########     ###     ########### ########  ##########\nBy .rizve",
+                  "skip-on-valid-pattern": true
+            },
+            "advanced": {
+                  "list-items": false,
+                  "multi-inject": false
+            }
+      },
+      "assets": {
+            "success": "https://drive.usercontent.google.com/download?id=1sHUDhicdC26hzfvUu2tDI-gQNqWzeiEE&export=download&authuser=0&confirm=t&uuid=5d893c00-ef5d-45a8-bd02-f20c09312707&at=APZUnTWfZEYOS2jPzLSiCZw_GoMR:1713808518787",
+            "fail": "https://drive.usercontent.google.com/download?id=1BOdAAvuewyPr6s2_ipNu3BEhu4cMILL5&export=download&authuser=0&confirm=t&uuid=8d72b563-70fd-428b-95c8-ffe73ce747d7&at=APZUnTW2rJmljh9xbEp_dw5DM7SK:1713809563527"
+      }
+}
