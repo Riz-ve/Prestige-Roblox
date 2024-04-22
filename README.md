@@ -11,3 +11,4 @@ Inspired from [Bloxlib](https://github.com/ElCapor/bloxlib) and [Hyper Injector]
 
 # Download
 Download compiled version or source [Here](https://github.com/Riz-ve/Prestige-Roblox/releases/tag/Prestige)
+(Compiled Version is tested to give better performance)
