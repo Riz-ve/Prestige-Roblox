@@ -4,6 +4,13 @@ This uses the same method as Netflix CE. Works with any teleporter game But I us
 [**This**](https://www.roblox.com/games/16138148062/) game for the teleport.
 Prestige also supports more game than normal tool less executor since this scans through the entire descendants of Workspace.
 
+Features:
+`Multi Inject`
+`Sound`
+`High Performance`
+`Less Crash`
+`Fast Scanning`
+
 Preview:
 ![preview](https://github.com/Riz-ve/Prestige-Roblox/blob/main/Screenshot%202024-04-22%20195231.png)
 
