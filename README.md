@@ -7,6 +7,10 @@ Prestige also supports more game than normal tool less executor since this scans
 Preview:
 ![preview](https://github.com/Riz-ve/Prestige-Roblox/blob/main/Screenshot%202024-04-22%20195231.png)
 
+# Installation
+To install please run this cmd:
+`pip install -r requirements.txt`
+
 # Download
 Download compiled version or source [**Here**](https://github.com/Riz-ve/Prestige-Roblox/releases/tag/Prestige)
 
