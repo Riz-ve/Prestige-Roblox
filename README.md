@@ -4,6 +4,8 @@ This uses the same method as Netflix CE. Works with any teleporter game But I us
 [**This**](https://www.roblox.com/games/16138148062/) game for the teleport.
 Prestige also supports more game than normal tool less executor since this scans through the entire descendants of Workspace.
 
+Note: If your getting ``Failed to find parent offset`` then please set `"skip-on-valid-pattern"` to `false` on ``data.json``
+
 Features:
 `Multi Inject`
 `Sound`
